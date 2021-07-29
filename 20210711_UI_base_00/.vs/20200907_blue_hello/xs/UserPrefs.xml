@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{80B804FB-2D58-91BD-6B74-F41730FD1D53}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SampleUser.cs">
+    <Files>
+      <File FileName="Assets/NewBehaviourScript.cs" Line="21" Column="1" />
+      <File FileName="Assets/Scripts/SampleUser.cs" Line="70" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c8fbd8c4-30e8-47d7-bf22-1ce9b42c968f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
