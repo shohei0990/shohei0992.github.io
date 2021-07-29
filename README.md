@@ -25,9 +25,6 @@ I don't test environments under Windows.
  
 * shohei_0992
  
-# License
- 
-"Physics_Sim_Py" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
- 
+# License 
  
 Thank you!
