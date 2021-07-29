@@ -1,73 +1,33 @@
 # shohei0992.github.io
- new_file
-# Physics_Sim_Py
- 
-"Physics_Sim_Py" is a tutorial of physics simulations with Python.
- 
+This is a Unity code for BLE communication with ESP32+IMU or M5stack, displaying IMU data information and saving it as csv. iOS application is also possible.
+ESP32+IMU or M5stackとのBLE通信を行って、IMUのデータ情報を表示、csvで保存するUnityのcodeとなります。iOSのアプリ化も可能です。
+
 # DEMO
  
-You can learn how to making cute physics simulations (looks retro game).
- 
-![](https://cpp-learning.com/wp-content/uploads/2019/05/pyxel-190505-161951.gif)
- 
-This animation is a "Cat playing on trampoline"!
-You can get basic skills for making physics simulations.
- 
 # Features
- 
-Physics_Sim_Py used [pyxel](https://github.com/kitao/pyxel) only.
- 
-```python
-import pyxel
-```
-[Pyxel](https://github.com/kitao/pyxel) is a retro game engine for Python.
-You can feel free to enjoy making pixel art style physics simulations.
- 
+  
 # Requirement
  
-* Python 3.6.5
-* pyxel 1.0.2
- 
-Environments under [Anaconda for Windows](https://www.anaconda.com/distribution/) is tested.
- 
-```bash
-conda create -n pyxel pip python=3.6 Anaconda
-activate pyxel
-```
+* Unity 2019.2.8f1
+* Platform iOS
+* Unity Api Compatibility Level .NET 4.x
+* asset Bluetooth LE for iOS, tvOS and Android
  
 # Installation
- 
-Install Pyxel with pip command.
- 
-```bash
-pip install pyxel
-```
- 
+  
 # Usage
- 
-Please create python code named "demo.py".
-And copy &amp; paste [Day4 tutorial code](https://cpp-learning.com/pyxel_physical_sim4/).
- 
-Run "demo.py"
- 
-```bash
-python demo.py
-```
  
 # Note
  
-I don't test environments under Linux and Mac.
+I don't test environments under Windows.
  
 # Author
  
-* Hayabusa
-* R&D Center
-* Twitter : https://twitter.com/Cpp_Learning
+* shohei_0992
  
 # License
  
 "Physics_Sim_Py" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
  
-Enjoy making cute physics simulations!
  
 Thank you!
